@@ -5,7 +5,7 @@
 Watch Goku power up, see Vegeta enter the fight, and follow Frieza through his transformations while your computer runs CPU simulation and WebGL graphics workloads together. Ki Arena reports measured performance and, when launched locally, operating-system and supported driver readings.
 
 **Version:** 3.2.0  
-**Maintainer:** [Marcelo Collado · xatusbetazx17](https://github.com/xatusbetazx17)  
+**Maintainer:** [xatusbetazx17 · xatusbetazx17](https://github.com/xatusbetazx17)  
 **Browser demo:** [Launch Ki Arena](https://ki-arena-benchmark.xatusbetazx17.chatgpt.site)
 
 > Native hardware readings require the downloaded package and its local Python launcher. The hosted demo and GitHub Pages version provide browser benchmarks only. This project is experimental; actual Windows execution and physical GPU sensor readings have not yet been verified by the development tests.
